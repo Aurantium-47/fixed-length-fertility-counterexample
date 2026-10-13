@@ -1,0 +1,14 @@
+MANIFEST.json
+README.md
+REFERENCES.md
+REPRODUCIBILITY.md
+RIGHTS.md
+SCOPE.md
+WHITELIST.txt
+code/reproduce_n9.py
+data/n9.recomputed.json
+evidence/EXECUTION.json
+evidence/original_stderr.txt
+evidence/original_stdout.jsonl
+paper/proof.pdf
+paper/proof.tex

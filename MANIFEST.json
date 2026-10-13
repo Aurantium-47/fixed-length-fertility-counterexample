@@ -1,0 +1,73 @@
+{
+  "title": "A length-nine gap in consecutive-stack fertility spectra",
+  "version": "0.1.0",
+  "hash_algorithm": "SHA-256",
+  "self_excluded": true,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2146,
+      "sha256": "dcf3265072f45675e5b8df75e78ad57cb9ad666555ccfcdb70d0b1af24869fa1"
+    },
+    {
+      "path": "REFERENCES.md",
+      "bytes": 1208,
+      "sha256": "8c5f6dd3426e282c497d034e83818a2495d3095bec044c794ea93f6611adede3"
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "bytes": 4144,
+      "sha256": "c44cc180458f19cca650aad6623490ac73cb029ef5ef846dac84937f4a77691f"
+    },
+    {
+      "path": "RIGHTS.md",
+      "bytes": 756,
+      "sha256": "0027c899719ec4746fb464f4e7e643824ee3df46899dab609bd7b8748957fd81"
+    },
+    {
+      "path": "SCOPE.md",
+      "bytes": 1959,
+      "sha256": "3bc5ba4fafaa98bb8201313982e84679ca9a9e18dded96402e09ff575c821c98"
+    },
+    {
+      "path": "WHITELIST.txt",
+      "bytes": 251,
+      "sha256": "af8b26838fd207196a7e4a876414cc880d1262144802d7929a0be3df72830857"
+    },
+    {
+      "path": "code/reproduce_n9.py",
+      "bytes": 1403,
+      "sha256": "201d88f7fd9ee367a4749e74f4ed7ede511f0ea2bce41704a0157c1224a5e3ff"
+    },
+    {
+      "path": "data/n9.recomputed.json",
+      "bytes": 1266,
+      "sha256": "ccf28642e4004512df0bd4054c0f98ce85d007442cc42effa17e697d2bbed882"
+    },
+    {
+      "path": "evidence/EXECUTION.json",
+      "bytes": 1459,
+      "sha256": "260af76eab4ab2cb8dcac4b7b1fd4ae1c4cb36623a2571d420680498df99b53b"
+    },
+    {
+      "path": "evidence/original_stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "evidence/original_stdout.jsonl",
+      "bytes": 178,
+      "sha256": "9119a0cb9255c1931a3948ad184f3d06da94aa4916baec5dd78058ee3cd43b9e"
+    },
+    {
+      "path": "paper/proof.pdf",
+      "bytes": 308067,
+      "sha256": "7dbfe1dbe984a54dd3268f0fda8ca5a88fbe6081e737d89adc8ea569cfc0a241"
+    },
+    {
+      "path": "paper/proof.tex",
+      "bytes": 15610,
+      "sha256": "8cab8a09e264739f1f2315e2f7892250f2fa473c0d948026a39409ff932cf349"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "kind": "Path-free summary of the archived completed original n=9 run",
+  "start_utc": "2026-10-13T04:27:46.4455254Z",
+  "end_utc": "2026-10-13T04:27:51.1014079Z",
+  "exit_code": 0,
+  "stop_reason": null,
+  "observed_peak_working_set_bytes": 31113216,
+  "monitor_sample_ms": 50,
+  "historical_monitor_limits": {
+    "seconds": 60,
+    "peak_working_set_bytes": 134217728,
+    "mechanism": "sampled PowerShell process monitor; not a Windows Job Object commitment"
+  },
+  "interpreter_version_recorded_in_original_run_receipt": false,
+  "internal_census_elapsed_seconds": 4.4192823,
+  "inputs": 362880,
+  "positive_outputs": 97278,
+  "zero_fertility_outputs": 265602,
+  "original_histograms_match_after_enumeration": true,
+  "original_script_sha256": "2decdeaeaa39953e0a99c14b3ee25e047a717b82a47001d7523082fcb8d3641e",
+  "original_run_receipt_sha256": "a826e9391f3727ec1289f5681742f3e83ba1cb1a2499ed2dc84f30d448fb4469",
+  "original_monitor_script_sha256": "ded44d6fe8063faf050b3d4e9365a72694ef8826b33faac1965942b61d510b95",
+  "recorded_result_sha256": "ccf28642e4004512df0bd4054c0f98ce85d007442cc42effa17e697d2bbed882",
+  "stdout_sha256": "9119a0cb9255c1931a3948ad184f3d06da94aa4916baec5dd78058ee3cd43b9e",
+  "stderr_bytes": 0,
+  "new_packaged_script_sha256": "201d88f7fd9ee367a4749e74f4ed7ede511f0ea2bce41704a0157c1224a5e3ff",
+  "new_packaged_entry_status": "NOT_EXECUTED",
+  "mathematical_core_AST_preserved": true,
+  "proof_assistant_certified": false
+}
